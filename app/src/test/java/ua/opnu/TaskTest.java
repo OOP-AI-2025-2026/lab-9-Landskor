@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class TaskTest {
+public class    TaskTest {
 
     public static Task task;
 
